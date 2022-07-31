@@ -1,0 +1,31 @@
+#a{
+    border: 2px solid black;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+#b{
+    border: 5px solid black;
+    margin-top: 500px;
+}
+.c{
+    font-size: 50px;
+}
+#k{
+    margin-left: 600px;
+    margin-top: -60px;
+}
+#cat{
+    margin-left: 300px;
+}
+#dog{
+    margin-left: 100px;
+}
+body{
+    background-color: bisque;
+}
+h1{
+    color: red;
+}
+#banana{
+    margin-left: 100px;
+}
